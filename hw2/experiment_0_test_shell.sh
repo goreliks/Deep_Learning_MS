@@ -1,0 +1,1 @@
+python -m hw2.experiments run-exp -n test -K 32 -L 2 -P 4 -H 100 --bs-train 50 --batches 10 --early-stopping 5 --run-name exp1_1_L2_K32
